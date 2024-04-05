@@ -1,1 +1,1 @@
-console.log("Hello World!!");
+console.log("Hello World!!"); // Semi colon is optional but it is good for practices
